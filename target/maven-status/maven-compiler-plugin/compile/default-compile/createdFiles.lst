@@ -1,0 +1,4 @@
+com/trading/MarketDataTool.class
+com/trading/MCPServerResource.class
+com/trading/FinnhubQuote.class
+com/trading/FinnhubClient.class

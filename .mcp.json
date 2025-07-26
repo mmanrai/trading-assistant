@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "market-data": {
+      "command": "java",
+      "args": [
+        "-jar", 
+        "target/quarkus-app/quarkus-run.jar"
+      ],
+      "cwd": "/Users/mohit/dev/trading-assistant",
+      "env": {
+        "QUARKUS_HTTP_PORT": "8080"
+      }
+    }
+  }
+}
